@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Jayrah DeVore.
+I'm currently a Senior CS student at Eastern Kentucky University and an intern at Badger Technologies.
+I work with a variety of programming languages and enjoy seeing the paradigms that come with each.
+![](https://raw.githubusercontent.com/jayrahdevore/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
+Check out my profile at [jayrah.dev](https://jayrah.dev)
 
 <!--
 **jayrahdevore/jayrahdevore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
